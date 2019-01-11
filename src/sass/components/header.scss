@@ -1,0 +1,12 @@
+body {
+  background-color: grey;
+}
+
+.header {
+  &__text {
+    color: $blue;
+    font-family: $montserrat; 
+  }
+  
+}
+

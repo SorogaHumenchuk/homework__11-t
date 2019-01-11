@@ -1,0 +1,12 @@
+/*
+   Import partials below
+*/
+@import './normalize.scss';
+@import './variables.scss';
+@import './components/header.scss';
+
+svg {
+  width: 40px;
+  height: 40px;
+  fill: red;
+}
