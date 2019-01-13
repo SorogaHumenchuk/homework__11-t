@@ -4,9 +4,6 @@
 @import './normalize.scss';
 @import './variables.scss';
 @import './components/header.scss';
+@import './components/main.scss';
+@import './components/footer.scss';
 
-svg {
-  width: 40px;
-  height: 40px;
-  fill: red;
-}
